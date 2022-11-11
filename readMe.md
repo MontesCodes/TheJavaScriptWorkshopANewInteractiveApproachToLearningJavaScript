@@ -1,4 +1,4 @@
-# Project Name
+# The JavaScript Workshop A New Interactive Approach to Learning JavaScript
 
 <!-- > Outline a brief description of your project. -->
 
